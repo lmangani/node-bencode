@@ -1,4 +1,6 @@
 # Bencode
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/themasch/node-bencode.svg)](https://greenkeeper.io/)
 [![npm](https://img.shields.io/npm/v/bencode.svg?style=flat-square)](https://npmjs.com/bencode)
 [![npm downloads](https://img.shields.io/npm/dm/bencode.svg?style=flat-square)](https://npmjs.com/bencode)
 [![build status](https://img.shields.io/travis/themasch/node-bencode/master.svg?style=flat-square)](https://travis-ci.org/themasch/node-bencode)
