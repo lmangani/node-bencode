@@ -7,4 +7,5 @@ node_js:
 branches:
   only:
     - master
+    - /^greenkeeper/.*$/
 script: npm test
